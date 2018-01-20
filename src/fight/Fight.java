@@ -146,7 +146,7 @@ public class Fight extends Application
             input.clear();
             input.add(code);
         });
-        
+        //comments
         Image arena = new Image("file:/Users/apwhitesell/NetBeansProjects/Fight/src/resources/arena.png");
         Image link = new Image("file:/Users/apwhitesell/NetBeansProjects/Fight/src/resources/linkSelect.png");
         Image linkBlue = new Image("file:/Users/apwhitesell/NetBeansProjects/Fight/src/resources/linkSelectBlue.png");
