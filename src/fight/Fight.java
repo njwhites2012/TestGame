@@ -148,6 +148,7 @@ public class Fight extends Application
         });
         
         final String dir = System.getProperty("user.dir");
+        System.out.print("file:"+dir+"/src/resources/arena.png");
         Image arena = new Image("file:"+dir+"/src/resources/arena.png");
         Image link = new Image("file:"+dir+"/src/resources/linkSelect.png");
         Image linkBlue = new Image("file:"+dir+"/src/resources/linkSelectBlue.png");
